@@ -83,7 +83,7 @@ int main(){
             cout<<"*";
         }
 
-        // Middle for space
+        // Middle space
         for(int k = 1 ; k<=row ; k++){
 
             if(k <= i-1){
