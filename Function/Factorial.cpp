@@ -22,6 +22,6 @@ int  factorial(int num){
 
 int main(){
 
-    int num = factorial(5);
+    int num = factorial(4);
     cout<<"Factorial of Number is = "<<num<<'\n';
 }
