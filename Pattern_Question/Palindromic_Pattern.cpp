@@ -26,8 +26,6 @@ int main(){
 
     for(int i = 1 ; i<= row ; i++){
 
-        int original_i = i;
-
         // Space Printing
         for(int j = i ; j<row; j++){
             cout<<" ";
